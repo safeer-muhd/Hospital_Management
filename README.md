@@ -19,4 +19,4 @@ The integrated system can be customized in maily focused:<h2> Appointment Bookin
 
 <h3>4. Doctors Departments<h3/>
 
-<img src="https://user-images.githubusercontent.com/114298760/197848934-749d2d7a-9e6c-403e-b426-e45ffb185374.png" style="width:900px">
+<img src="https://user-images.githubusercontent.com/114298760/197894256-7e6394e3-9c8a-4dcc-900f-23665fcbf89e.png" style="width:900px">
